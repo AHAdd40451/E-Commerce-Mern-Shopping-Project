@@ -1,6 +1,7 @@
 import axios from "axios";
+// const BASE_URL = "http://localhost:5000/api/"; for dev
+const BASE_URL = "https://e-commerce-mern-shopping-project.vercel.app/";
 
-const BASE_URL = "http://localhost:5000/api/";
 
 
 const user = JSON.parse(localStorage.getItem("persist:root"))?.user;
