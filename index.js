@@ -40,6 +40,6 @@ if (process.env.NODE_ENV == 'production') {
   })
 
 }
-app.listen("https://e-commerce-mern-shopping-project.vercel.app/", () => {
+app.listen('https://e-commerce-mern-shopping-project.vercel.app', () => {
   console.log("backend server is running");
 });
