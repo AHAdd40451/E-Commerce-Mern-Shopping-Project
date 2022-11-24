@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/app.css"],"names":[],"mappings":"AAKA,aAJI,oBASJ,CALA,MACE,UAAY,CACZ,iBAAkB,CAElB,oBACF","file":"3.89b80f8d.chunk.css","sourcesContent":["a:link {\n    text-decoration: none;\n  }\n  \n\n.logo{\n  color: black;\n  text-align: center;\n  text-decoration: none;\n  display: inline-block;\n}\n\n\n"]}
