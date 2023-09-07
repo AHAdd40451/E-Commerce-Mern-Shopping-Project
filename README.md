@@ -3,6 +3,7 @@ React Node.js E-Commerce App Full Tutorial (REDUX - Stripe - JWT ) - MERN Stack 
 
 This project was made by all modern language and framework
 
+Deployed At: https://e-commerce-mern-shopping-project.vercel.app/
 
 i use express as a Backend api endpoint
 i devide auth into 3 parts
